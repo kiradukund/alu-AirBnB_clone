@@ -36,3 +36,4 @@ $ echo "help" | ./console.py
 | update | update <class> <id> <attr> <value> |
 | quit | quit |
 
+
