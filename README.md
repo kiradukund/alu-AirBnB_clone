@@ -35,3 +35,4 @@ $ echo "help" | ./console.py
 | all | all or all <class> |
 | update | update <class> <id> <attr> <value> |
 | quit | quit |
+
